@@ -1,0 +1,6 @@
+{
+  "name": "راوي — استوديو تحويل النص إلى صوت",
+  "description": "تطبيق بسيط لتحويل النصوص والقصص وسكربتات الفيديو إلى تعليق صوتي احترافي بالعربية واللهجات والإنجليزية، مع دعم الراوي الواحد والحوار الثنائي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
